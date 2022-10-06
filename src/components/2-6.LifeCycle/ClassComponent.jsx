@@ -37,5 +37,5 @@ export default class ClassComponent extends Component {
         <h2>{this.state.date.toLocaleTimeString()}</h2>
       </div>
     );
-  }
+  };
 }
